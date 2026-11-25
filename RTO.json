@@ -1,0 +1,270 @@
+{
+ "code": "M463B",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "22 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": "M463AC",
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "INPUT",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "FB OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "IN",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "IN",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "9",
+   "signal": "CTL",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "IN",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "SHIELD",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "14",
+   "signal": "PREFADE IN",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "FADER IN",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "DIRECT OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "17",
+   "signal": "MONITOR OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "CTL COM",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "25V",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "±COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "CHASS/S GND",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "FB",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "B",
+   "signal": "RS",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "MI/M2",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "drawing rows",
+   "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg"
+ ]
+}
