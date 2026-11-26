@@ -21,7 +21,7 @@ Wiki page: [M463B](../../../../PAGES/M463B.md)
 - **Closed boxes:** 52
 - **Wiring (first pass):** 136 connected wire groups from 503 runs
 
-Every curve, box, word and wire group: [1972 - M463B - 463-01-003 - WAAD-BECK BYSTEMS (traced).json](../SCHEMATICS/1972%20-%20M463B%20-%20463-01-003%20-%20WAAD-BECK%20BYSTEMS%20(traced).json) (the CAD file: `1972 - M463B - 463-01-003 - WAAD-BECK BYSTEMS (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463B - 463-01-003 - WAAD-BECK BYSTEMS (traced).json](../SCHEMATICS/1972%20-%20M463B%20-%20463-01-003%20-%20WAAD-BECK%20BYSTEMS%20%28traced%29.json) (the CAD file: `1972 - M463B - 463-01-003 - WAAD-BECK BYSTEMS (traced).dxf`).
 
 ## Full text
 

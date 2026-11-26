@@ -19,7 +19,7 @@ Wiki page: [M463B](../../../../PAGES/M463B.md)
 - **Circles and arcs:** 10 circles, 0 arcs; largest r 5.8 @ (229.8, 144.8), r 5.6 @ (231.7, 223.1), r 2.2 @ (276.1, 232.9), r 2.2 @ (183.7, 175.2)
 - **Closed boxes:** 27
 
-Every curve, box, word and wire group: [1972 - M463B - 4-141-06-001 - WAAD-BECK SYSTEMB (traced).json](../SCHEMATICS/1972%20-%20M463B%20-%204-141-06-001%20-%20WAAD-BECK%20SYSTEMB%20(traced).json) (the CAD file: `1972 - M463B - 4-141-06-001 - WAAD-BECK SYSTEMB (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463B - 4-141-06-001 - WAAD-BECK SYSTEMB (traced).json](../SCHEMATICS/1972%20-%20M463B%20-%204-141-06-001%20-%20WAAD-BECK%20SYSTEMB%20%28traced%29.json) (the CAD file: `1972 - M463B - 4-141-06-001 - WAAD-BECK SYSTEMB (traced).dxf`).
 
 ## Full text
 

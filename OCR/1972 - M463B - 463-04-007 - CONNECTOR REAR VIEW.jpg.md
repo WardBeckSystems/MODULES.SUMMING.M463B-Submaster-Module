@@ -19,7 +19,7 @@ Wiki page: [M463B](../../../../PAGES/M463B.md)
 - **Closed boxes:** 42
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1972 - M463B - 463-04-007 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1972%20-%20M463B%20-%20463-04-007%20-%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1972 - M463B - 463-04-007 - CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463B - 463-04-007 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1972%20-%20M463B%20-%20463-04-007%20-%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1972 - M463B - 463-04-007 - CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 
