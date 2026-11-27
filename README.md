@@ -46,33 +46,98 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 
 ## RTO-144 pinout
 
-22 contacts. Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | INPUT | in |  | variant |
-| 2 | OUT | out |  | variant |
-| 3 | OUT | out |  | variant |
-| 4 | FB OUT | out |  | variant |
-| 5 | OUT | out |  | variant |
-| 6 | IN | in |  | variant |
-| 7 | IN | in |  | variant |
-| 8 | OUT | out |  | variant |
-| 9 | CTL | control |  | variant |
-| 10 | IN | in |  | variant |
-| 13 | SHIELD | ground |  | variant |
-| 14 | PREFADE IN | in |  | variant |
-| 15 | FADER IN | in |  | variant |
-| 16 | DIRECT OUT | out |  | variant |
-| 17 | MONITOR OUT | out |  | variant |
-| 18 | CTL COM | ground |  | variant |
-| 19 | 25V | other |  | variant |
-| 20 | ±COMMON | ground |  | variant |
-| 21 | +25V | power |  | variant |
-| 22 | CHASS/S GND | ground |  | variant |
-| A | FB | other |  | variant |
-| B | RS | other |  | variant |
-| L | MI/M2 | other |  | variant |
+| P1-1 | SUMMING INPUT | in | SUMMING INPUT | medium |
+| P1-2 | SHIELD | shield | SUMMING INPUT shield | medium |
+| P1-3 | PA BUS | bus | PA | medium |
+| P1-4 | RS2 BUS | bus | RS2 | medium |
+| P1-5 | RS1 BUS | bus | RS1 | medium |
+| P1-6 | FB4 BUS | bus | FB4 | medium |
+| P1-7 | FB3 BUS | bus | FB3 | medium |
+| P1-8 | FB2 BUS | bus | FB2 | medium |
+| P1-9 | FB1 BUS | bus | FB1 | medium |
+| P1-10 | INTERNAL CONNECTION | other |  | medium |
+| P1-11 | N/C | nc |  | medium |
+| P1-12 | SOLO BUS | bus | SOLO | medium |
+| P1-13 | N/C | nc |  | medium |
+| P1-14 | BOOSTER IN | in | BOOSTER IN | medium |
+| P1-15 | N/C | nc |  | medium |
+| P1-16 | ATT IN SHIELD TIE | shield | shield | medium |
+| P1-17 | DIRECT INPUT | in | DIRECT INPUT | medium |
+| P1-18 | ATT OUT SHIELD TIE | shield | shield | medium |
+| P1-19 | INTERNAL CONNECTION | other |  | medium |
+| P1-20 | PRE-FADE IN | in | PRE-FADE IN | medium |
+| P1-21 | INTERNAL CONNECTION | other |  | medium |
+| P1-22 | OUTPUT AMP | other | OUTPUT AMP | medium |
+| P1-A | SUMMING INPUT | in | SUMMING INPUT | medium |
+| P1-B | N/C | nc |  | medium |
+| P1-C | PA BUS | bus | PA | medium |
+| P1-D | RS2 BUS | bus | RS2 | medium |
+| P1-E | RS1 BUS | bus | RS1 | medium |
+| P1-F | FB4 BUS | bus | FB4 | medium |
+| P1-H | FB3 BUS | bus | FB3 | medium |
+| P1-J | FB2 BUS | bus | FB2 | medium |
+| P1-K | FB1 BUS | bus | FB1 | medium |
+| P1-L | INTERNAL CONNECTION | other |  | medium |
+| P1-M | N/C | nc |  | medium |
+| P1-N | SOLO BUS | bus | SOLO | medium |
+| P1-P | N/C | nc |  | medium |
+| P1-R | BOOSTER IN | in | BOOSTER IN | medium |
+| P1-S | N/C | nc |  | medium |
+| P1-T | ATT IN SHIELD TIE | shield | shield | medium |
+| P1-U | DIRECT INPUT | in | DIRECT INPUT | medium |
+| P1-V | ATT OUT SHIELD TIE | shield | shield | medium |
+| P1-W | INTERNAL CONNECTION | other |  | medium |
+| P1-X | PRE-FADE IN | in | PRE-FADE IN | medium |
+| P1-Y | INTERNAL CONNECTION | other |  | medium |
+| P1-Z | OUTPUT AMP | other | OUTPUT AMP | medium |
+| P2-1 | INTERNAL CONNECTION | other |  | medium |
+| P2-2 | GROUND | ground |  | medium |
+| P2-3 | LEFT 1 OUT | out | LEFT 1 OUT L | medium |
+| P2-4 | LEFT 2 OUT | out | LEFT 2 OUT L | medium |
+| P2-5 | RIGHT 1 OUT | out | RIGHT 1 OUT R | medium |
+| P2-6 | RIGHT 2 OUT | out | RIGHT 2 OUT R | medium |
+| P2-7 | GROUND | ground |  | medium |
+| P2-8 | SLATE IN | in | SLATE IN | medium |
+| P2-9 | N/C | nc |  | medium |
+| P2-10 | INTERNAL CONNECTION | other |  | medium |
+| P2-11 | INTERNAL CONNECTION | other |  | medium |
+| P2-12 | DIRECT OUTPUT | out | DIRECT OUTPUT | medium |
+| P2-13 | INTERNAL CONNECTION | other |  | medium |
+| P2-14 | INTERNAL CONNECTION | other |  | medium |
+| P2-15 | SLATE CONTROL | control_in | SLATE CONTROL | medium |
+| P2-16 | INTERNAL CONNECTION | other |  | medium |
+| P2-17 | INTERNAL CONNECTION | other |  | medium |
+| P2-18 | CONTROL COMMON | ground |  | medium |
+| P2-19 | -25 V | power |  | medium |
+| P2-20 | 25 V COM | ground |  | medium |
+| P2-21 | +25 V | power |  | medium |
+| P2-22 | CHASSIS | ground |  | medium |
+| P2-A | INTERNAL CONNECTION | other |  | medium |
+| P2-B | GROUND | ground |  | medium |
+| P2-C | LEFT 1 OUT | out | LEFT 1 OUT L | medium |
+| P2-D | LEFT 2 OUT | out | LEFT 2 OUT L | medium |
+| P2-E | RIGHT 1 OUT | out | RIGHT 1 OUT R | medium |
+| P2-F | RIGHT 2 OUT | out | RIGHT 2 OUT R | medium |
+| P2-H | GROUND | ground |  | medium |
+| P2-J | SLATE IN | in | SLATE IN | medium |
+| P2-K | N/C | nc |  | medium |
+| P2-L | INTERNAL CONNECTION | other |  | medium |
+| P2-M | INTERNAL CONNECTION | other |  | medium |
+| P2-N | DIRECT OUTPUT | out | DIRECT OUTPUT | medium |
+| P2-P | INTERNAL CONNECTION | other |  | medium |
+| P2-R | INTERNAL CONNECTION | other |  | medium |
+| P2-S | N/C | nc |  | medium |
+| P2-T | PA CONTROL | control_in | PA CONTROL | medium |
+| P2-U | INTERNAL CONNECTION | other |  | medium |
+| P2-V | SOLO CONTROL | control_in | SOLO CONTROL | medium |
+| P2-W | INTERNAL CONNECTION | other |  | medium |
+| P2-X | INTERNAL CONNECTION | other |  | medium |
+| P2-Y | +24 V | power |  | medium |
+| P2-Z | INTERNAL CONNECTION | other |  | medium |
 
 ## KiCad
 
