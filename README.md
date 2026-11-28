@@ -27,6 +27,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbkdZa2RHT201a2s/view?resourcekey=0-zpJnXqKgY9hdL1NzLrFXqw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbkdZa2RHT201a2s&resourcekey=0-zpJnXqKgY9hdL1NzLrFXqw" width="240" alt="1972 - M463B - 463-04-022.jpg"></a><br><sub>1972|5 · 463-04-022 · <a href="MECHANICAL/1972%20-%20M463B%20-%20463-04-022%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M463B.stl`](MECHANICAL/M463B.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M463B)
+
+- **Size:** 45.34 × 278.3 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 19 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M463B - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M463B.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
