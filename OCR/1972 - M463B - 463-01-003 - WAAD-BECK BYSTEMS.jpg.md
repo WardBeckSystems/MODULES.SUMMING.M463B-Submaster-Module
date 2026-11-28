@@ -1,5 +1,5 @@
 # 1972 - M463B - 463-01-003 - WAAD-BECK BYSTEMS.jpg
-Wiki page: [M463B](../../../../PAGES/M463B.md)
+Wiki page: [M463B](../)
 
 
 - **Year:** 1972 (module estimate (family))

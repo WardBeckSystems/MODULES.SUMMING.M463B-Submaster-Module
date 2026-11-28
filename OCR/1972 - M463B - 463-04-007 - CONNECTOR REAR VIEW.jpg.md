@@ -1,5 +1,5 @@
 # 1972 - M463B - 463-04-007 - CONNECTOR REAR VIEW.jpg
-Wiki page: [M463B](../../../../PAGES/M463B.md)
+Wiki page: [M463B](../)
 
 
 - **Year:** 1972 (module estimate (family))
